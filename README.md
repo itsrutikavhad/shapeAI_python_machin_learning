@@ -1,10 +1,10 @@
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>,
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAT.
+# DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
+learn a lot during these 7 days and it was an amazing experience learning with DevTown.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7218TDRnbulNEA-59W7wWgCWE8LEDD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE 20THUMBNAIL-5.png"></a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/machine%20learning.png"> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
@@ -12,14 +12,16 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-<a href="https://www.shapeal.tech"> www.shapeal.tech</a>
-or follow SHAPEAI on:
+<a href="https://www.Devtown.in"> www.Devtown.in</a>
+or follow DevTown on:
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+"https://www.linkedin.com/company/devtown-in/">LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><а
+"https://www.instagram.com/devtown.in/">Instagram</a>
+<li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
+"https://www.youtube.com/c/DevTownIndia">YouTu
+be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+
